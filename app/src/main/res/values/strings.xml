@@ -12,7 +12,7 @@
     <string name="str_bluetooth_version">Bluetooth Version</string>
     <string name="str_bluetooth_name">Bluetooth Name:</string>
     <string name="str_berry_med">BerryMed</string>
-    <string name="str_get_source_code"><u>Get Source11 Code>>></u></string>
+    <string name="str_get_source_code"><u>Get OxyMeter Code>>></u></string>
     <string name="strChangeName">Change BT Name</string>
     <string name="strHintModifyName">Modify Bluetooth Name</string>
 </resources>
